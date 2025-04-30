@@ -53,7 +53,7 @@ class Square(Polygon):
     def sides(self):   
         print("I have 4 sides")   
 
-# Driver code   
+ 
 t = Triangle()   
 t.sides()
 
